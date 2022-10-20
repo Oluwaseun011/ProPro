@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJ3kXHSkJki0dyvqD7TJs+8CXWz8a5oEO+90zqQpyt/ZJsANjwgTz2L/2EOwMGwm59WxcPMXMrX8RabTg4IJHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\TestXam\\TestXam\\TestXam.iOS\\TestXam.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
